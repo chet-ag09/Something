@@ -1,2 +1,3 @@
-# Something
+# Cool project
 Something for moonhacks
+
